@@ -1,1 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2021-01-03T15:48:49.767Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" version="14.1.8" etag="h0T9ClCvLvsoybUxowik" type="github"><diagram id="sKPirnVCtBwlHA_4e2aG">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-01-03T15:55:00.266Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="BTPL2Aj6NibJuObfjJSp" version="14.1.8" type="github">
+  <diagram id="sKPirnVCtBwlHA_4e2aG" name="Page-1">
+    <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="bJNRHkglilT6ckD4tKtB-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="320" y="20" width="200" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="bJNRHkglilT6ckD4tKtB-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="180" y="20" width="450" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="bJNRHkglilT6ckD4tKtB-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="320" y="20" width="205" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="bJNRHkglilT6ckD4tKtB-2" value="Show score" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="200" y="30" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bJNRHkglilT6ckD4tKtB-5" value="Popup message to &lt;br&gt;start game" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="340" y="210" width="170" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
